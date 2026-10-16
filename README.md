@@ -6,7 +6,7 @@ An interactive, responsive real-time Currency Converter web application built us
 
 ## 🚀 Live Demo & Preview
 
-> **Live Preview:** Open index.html directly in any web browser or deploy with GitHub Pages.
+> 🚀 **Live Demo:** [https://lucifer-67890.github.io/currency-converter/](https://lucifer-67890.github.io/currency-converter/)
 
 ### ✨ Key Features
 - **Live Exchange Rates:** Integrates with @fawazahmed0/currency-api for real-time forex exchange rates across 150+ global currencies.
